@@ -1,0 +1,7 @@
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/obj/Debug/BackDamka.csproj.AssemblyReference.cache
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/obj/Debug/BackDamka.csproj.CoreCompileInputs.cache
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/obj/Debug/BackDamka.pdb
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/bin/Debug/BackDamka.dll.config
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/bin/Debug/BackDamka.dll
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/bin/Debug/BackDamka.pdb
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/BackDamka/obj/Debug/BackDamka.dll

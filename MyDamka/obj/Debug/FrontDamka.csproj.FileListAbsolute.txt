@@ -1,0 +1,11 @@
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/obj/Debug/FrontDamka.csproj.CoreCompileInputs.cache
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/obj/Debug/FrontDamka.csproj.AssemblyReference.cache
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/bin/Debug/MyDamka.exe.config
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/bin/Debug/MyDamka.exe
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/bin/Debug/MyDamka.pdb
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/bin/Debug/BackDamka.dll
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/bin/Debug/BackDamka.pdb
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/bin/Debug/BackDamka.dll.config
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/obj/Debug/FrontDamka.csproj.CopyComplete
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/obj/Debug/MyDamka.exe
+/Users/shaya/Desktop/Desktop - ⁨MacBook Pro's ben/IDC/2nd Year/2nd semester/Object Oriented Programming with C# and .NET/B22 Ex02 BenShaya 315856484 JonathanKandel 206483604/MyDamka/obj/Debug/MyDamka.pdb
